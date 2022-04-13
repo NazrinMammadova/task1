@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.AssemblyInfo.cs
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.exe
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.deps.json
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.runtimeconfig.json
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.dll
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\bin\Debug\netcoreapp3.1\homeworkaa.pdb
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.dll
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.pdb
+C:\Users\Asus\source\repos\homeworkaa\homeworkaa\obj\Debug\netcoreapp3.1\homeworkaa.genruntimeconfig.cache
